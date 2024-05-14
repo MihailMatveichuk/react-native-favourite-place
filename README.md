@@ -1,1 +1,0 @@
-# react-native-favourite-place
